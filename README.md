@@ -1,1 +1,1 @@
-# Welcome to Perosnal Website
+# Welcome to Personal Website
